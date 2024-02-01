@@ -41,6 +41,11 @@ The language model is implemented using an LSTM (Long Short-Term Memory) network
 
 The training process involves iterating through the training dataset, computing the loss, backpropagating the gradients, and updating the model parameters. The model is trained for a specified number of epochs, and the learning rate is adjusted using a learning rate scheduler. The best model is saved based on the validation loss.
 
+## Results
+Training perplexity - 79.799
+Validation perplexity - 73.351 
+Testing perplexity - 88.691
+
 **Output:** Web Application at http://127.0.0.1:5000 <br>
 
 <img width="1690" alt="Screenshot 2024-02-01 at 21 42 59" src="https://github.com/ashmitaphuyal/NLP-Assignment-2/assets/32629216/da30f8fd-d0f6-497a-8dd3-e11e13c8ffda">
