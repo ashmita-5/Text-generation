@@ -1,8 +1,4 @@
-# NLP-Assignment-2
-
-## Student Info
-
-Ashmita Phuyal(124454)
+# Text generation
 
 ## Dataset Selection
 
